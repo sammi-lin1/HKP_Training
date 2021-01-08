@@ -1,1 +1,1 @@
-# Learning how to create a floating hint and autocomplete functionalities
+# Learning floating hint and autocomplete functionalities
